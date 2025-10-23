@@ -210,7 +210,7 @@ Master's degree in Intercultural Relations with advanced PhD coursework in Migra
 
 **Connect with me:**
 - 🌐 Portfolio: [datascienceportfol.io/akemarcpt](https://datascienceportfol.io/akemarcpt)
-- 💼 LinkedIn: [inkedin.com/in/ake-marc-albert-adje-5b341a110/](inkedin.com/in/ake-marc-albert-adje-5b341a110/)
+- 💼 LinkedIn: - 💼 LinkedIn: [linkedin.com/in/ake-marc-albert-adje-5b341a110](https://linkedin.com/in/ake-marc-albert-adje-5b341a110/)
 - 📧 Email: akemarcpt@gmail.com
 
 ---
