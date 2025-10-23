@@ -176,9 +176,19 @@ If given more time/resources, I would:
 
 ## 👨‍🎓 About Me
 
-PhD researcher in Migration Studies with expertise in intercultural relations and multilingual communication. Transitioning into Data Analytics with a focus on cultural intelligence and diversity analytics. 
+Master's degree in Intercultural Relations with advanced PhD coursework in Migration Studies (Universidade de Lisboa). Specialist in cross-cultural communication, international relations, and multilingual analysis. Transitioning into Data Analytics with a focus on cultural intelligence and diversity analytics, leveraging academic research expertise and multilingual capabilities (Portuguese, French, English).
 
-**Certifications:** Google Data Analytics | Microsoft Power BI | IBM Data Analyst | SQL for Data Science
+**Academic Background:**
+- Master's in Intercultural Relations - Universidade Aberta (2018-2021)
+- PhD Coursework in Migration Studies - Universidade de Lisboa (2022-2023)
+- Bachelor's in Portuguese Language & Literature - Universidade FHB COCODY (2004-2009)
+
+**Professional Certifications:** 
+- Google Data Analytics Professional Certificate
+- Microsoft Power BI Data Analyst Professional Certificate
+- IBM Data Analyst Professional Certificate
+- SQL for Data Science (UC Davis)
+- Business Analytics Specialization (University of Pennsylvania
 
 **Connect with me:**
 - 🌐 Portfolio: [datascienceportfol.io/akemarcpt](https://datascienceportfol.io/akemarcpt)
