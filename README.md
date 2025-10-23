@@ -41,18 +41,35 @@ In today's globalized customer service environment, companies serve diverse mult
 ## 📈 Key Visualizations
 
 ### Dashboard Overview
-![Dashboard Overview](dashboard/screenshots/overview-dashboard.png)
+*Interactive Power BI dashboard showing key metrics: ticket volume, resolution time, satisfaction scores, and language distribution across 5 languages*
 
-*Interactive Power BI dashboard showing key metrics: ticket volume, resolution time, satisfaction scores, and language distribution*
+**Key Metrics Displayed:**
+- Total tickets analyzed: 210+
+- Average satisfaction score: 5.37/10
+- Average resolution time: 64.36 minutes
+- Language distribution: EN (78), DE (47), ES (46), FR (29), PT (10)
 
 ### Language Impact Analysis
-![Language Analysis](dashboard/screenshots/language-analysis.png)
+**Key Finding:** Language matching is a critical success factor. Analysis reveals that tickets handled in the customer's native language achieve **31% higher satisfaction scores** compared to mismatched language pairs.
 
-**Insight:** Language matching is a critical success factor. Tickets handled in the customer's native language achieve 31% higher satisfaction compared to mismatched language pairs.
+**Performance by Language:**
+- English: 78 tickets, "Polite & Efficient" style, avg satisfaction 5.4/10
+- German: 47 tickets, "Direct & Functional" style, higher resolution efficiency
+- Spanish: 46 tickets, "Expressive & Relationship-Focused" style, longer interactions
+- French: 29 tickets, "Formal & Intellectual" style, detailed responses needed
+- Portuguese: 10 tickets, longest wait times due to agent shortage
 
-### Cultural Communication Styles
-![Cultural Insights](dashboard/screenshots/cultural-insights.png)
+### Cultural Communication Styles Impact
+**Analysis Results:** Cultural communication style matching significantly impacts service outcomes:
+- Communication complexity correlates more with satisfaction (0.067) than resolution time (0.029)
+- Language Match Score averages 0.80, indicating 20% of tickets face language barriers
+- Forecasting complexity ranges from 12-29 based on cultural and linguistic factors
 
+### Dashboard Access
+**To view the interactive dashboard:**
+1. Download `Power BI dashboard file.pbix` from the `dashboard/` folder
+2. Open with Power BI Desktop (free download from Microsoft)
+3. Explore interactive filters by language, region, priority, and time period
 
 **Key Patterns:**
 - **Polite & Efficient** (English): 78 tickets, avg satisfaction 5.4/10
