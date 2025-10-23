@@ -206,7 +206,7 @@ Master's degree in Intercultural Relations with advanced PhD coursework in Migra
 - Microsoft Power BI Data Analyst Professional Certificate
 - IBM Data Analyst Professional Certificate
 - SQL for Data Science (UC Davis)
-- Business Analytics Specialization (University of Pennsylvania
+- Business Analytics Specialization (University of Pennsylvania)
 
 **Connect with me:**
 - 🌐 Portfolio: [datascienceportfol.io/akemarcpt](https://datascienceportfol.io/akemarcpt)
