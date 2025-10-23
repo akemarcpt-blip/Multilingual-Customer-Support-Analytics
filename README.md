@@ -21,7 +21,7 @@
 - Cultural training programs recommended to optimize agent-customer matching
 - Language-based routing optimization can reduce resolution time by 30%
 
-**Tools Used:** Power BI | Excel | Statistical Analysis | Data Visualization
+**Tools Used:** Power BI | Excel | SQL | Statistical Analysis | Data Visualization
 
 ---
 
@@ -71,12 +71,6 @@ In today's globalized customer service environment, companies serve diverse mult
 2. Open with Power BI Desktop (free download from Microsoft)
 3. Explore interactive filters by language, region, priority, and time period
 
-**Key Patterns:**
-- **Polite & Efficient** (English): 78 tickets, avg satisfaction 5.4/10
-- **Direct & Functional** (German): 47 tickets, higher efficiency in resolution
-- **Expressive & Relationship-Focused** (Spanish): 46 tickets, require longer interactions
-- **Formal & Intellectual** (French): 29 tickets, benefit from detailed responses
-
 ---
 
 ## 🔬 Methodology
@@ -85,12 +79,14 @@ In today's globalized customer service environment, companies serve diverse mult
 - Analyzed 210 support tickets with 21 variables
 - Key metrics: Resolution Time, Satisfaction Score, Language Match Score, Cultural Style
 - Data cleaning: handled missing values, standardized categories
+- SQL queries for data exploration and statistical analysis
 
 ### Analysis Approach
-1. **Exploratory Data Analysis** to identify patterns across languages
-2. **Comparative analysis** of cultural communication styles
-3. **Correlation analysis** between language matching and satisfaction
-4. **Dashboard development** for stakeholder communication
+1. **SQL Data Exploration** - Queried datasets to identify patterns and calculate key metrics
+2. **Exploratory Data Analysis** - Examined distributions across languages and cultural styles
+3. **Comparative Analysis** - Compared satisfaction and resolution time by language matching
+4. **Correlation Analysis** - Identified relationships between language matching and satisfaction
+5. **Dashboard Development** - Created interactive Power BI visualizations for stakeholder communication
 
 ### Key Metrics
 - **Average Resolution Time:** 64 minutes (range: 10-123 min)
@@ -123,6 +119,7 @@ In today's globalized customer service environment, companies serve diverse mult
 ## 🛠️ Skills Demonstrated
 
 **Technical Skills:**
+- **SQL querying and data analysis** (aggregations, joins, CTEs, statistical calculations)
 - Power BI dashboard development and DAX calculations
 - Data cleaning and transformation (Excel, Power Query)
 - Statistical analysis and correlation studies
@@ -150,12 +147,20 @@ Multilingual-Customer-Support-Analytics/
 │ ├── Helpdesk_Raw_Data.xlsx
 │ └── ticket_helpdesk_labeled_multi_languages.xlsx
 │
+├── sql/
+│ ├── README.md
+│ ├── 01_data_exploration.sql
+│ ├── 02_language_analysis.sql
+│ ├── 03_satisfaction_metrics.sql
+│ ├── 04_cultural_insights.sql
+│ └── 05_business_recommendations.sql
+│
 ├── dashboard/
-│ ├── Customer_Support_Dashboard.pbix
+│ ├── Power BI dashboard file.pbix
 │ └── screenshots/
-│ ├── overview-dashboard.png
-│ ├── language-analysis.png
 │ ├── cultural-insights.png
+│ ├── language-analysis.png
+│ ├── overview-dashboard.png
 │ └── satisfaction-trends.png
 │
 ├── reports/
@@ -168,13 +173,16 @@ Multilingual-Customer-Support-Analytics/
 ## 👀 How to Access
 
 ### Interactive Dashboard
-**Power BI File:** Download `Customer_Support_Dashboard.pbix` from the `dashboard/` folder
+**Power BI File:** Download `Power BI dashboard file.pbix` from the `dashboard/` folder
 
 ### To View Locally:
 1. Download Power BI Desktop (free): [Microsoft Power BI](https://powerbi.microsoft.com/)
 2. Download the `.pbix` file from this repository
 3. Open with Power BI Desktop
 4. Explore interactive filters and visualizations
+
+### SQL Analysis
+SQL queries available in the `sql/` folder demonstrate data exploration, language analysis, and business recommendations derived from the dataset.
 
 ### Data Files
 Raw datasets available in the `data/` folder for your own analysis
@@ -201,7 +209,7 @@ Master's degree in Intercultural Relations with advanced PhD coursework in Migra
 - PhD Coursework in Migration Studies - Universidade de Lisboa (2022-2023)
 - Bachelor's in Portuguese Language & Literature - Universidade FHB COCODY (2004-2009)
 
-**Professional Certifications:** 
+**Professional Certifications:**
 - Google Data Analytics Professional Certificate
 - Microsoft Power BI Data Analyst Professional Certificate
 - IBM Data Analyst Professional Certificate
@@ -210,8 +218,8 @@ Master's degree in Intercultural Relations with advanced PhD coursework in Migra
 
 **Connect with me:**
 - 🌐 Portfolio: [datascienceportfol.io/akemarcpt](https://datascienceportfol.io/akemarcpt)
-- 💼 LinkedIn: - 💼 LinkedIn: [linkedin.com/in/ake-marc-albert-adje-5b341a110](https://linkedin.com/in/ake-marc-albert-adje-5b341a110/)
-- 📧 Email: akemarcpt@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/ake-marc-albert-adje-5b341a110](https://linkedin.com/in/ake-marc-albert-adje-5b341a110/)
+- 📧 Email: [akemarcpt@gmail.com](mailto:akemarcpt@gmail.com)
 
 ---
 
@@ -222,4 +230,3 @@ This project is for educational and portfolio purposes.
 ---
 
 *Last Updated: October 2025*
-
