@@ -53,6 +53,7 @@ In today's globalized customer service environment, companies serve diverse mult
 ### Cultural Communication Styles
 ![Cultural Insights](dashboard/screenshots/cultural-insights.png)
 
+
 **Key Patterns:**
 - **Polite & Efficient** (English): 78 tickets, avg satisfaction 5.4/10
 - **Direct & Functional** (German): 47 tickets, higher efficiency in resolution
